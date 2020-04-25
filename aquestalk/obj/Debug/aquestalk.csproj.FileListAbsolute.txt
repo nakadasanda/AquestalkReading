@@ -1,0 +1,9 @@
+C:\Users\root\source\repos\aquestalk\aquestalk\bin\Debug\aquestalk.exe.config
+C:\Users\root\source\repos\aquestalk\aquestalk\bin\Debug\aquestalk.exe
+C:\Users\root\source\repos\aquestalk\aquestalk\bin\Debug\aquestalk.pdb
+C:\Users\root\source\repos\aquestalk\aquestalk\obj\Debug\aquestalk.csprojAssemblyReference.cache
+C:\Users\root\source\repos\aquestalk\aquestalk\obj\Debug\aquestalk.Properties.Resources.resources
+C:\Users\root\source\repos\aquestalk\aquestalk\obj\Debug\aquestalk.csproj.GenerateResource.cache
+C:\Users\root\source\repos\aquestalk\aquestalk\obj\Debug\aquestalk.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\aquestalk\aquestalk\obj\Debug\aquestalk.exe
+C:\Users\root\source\repos\aquestalk\aquestalk\obj\Debug\aquestalk.pdb
