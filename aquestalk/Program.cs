@@ -29,6 +29,7 @@ namespace aquestalk
             public int acc;    // アクセント 0-200 default:基本素片に依存
             public int lmd;    // 音程１ 	0-200 default:100
             public int fsc;	// 音程２(サンプリング周波数) 50-200 default:100
+            
             public void Init()
             {
                 bas = 0;
